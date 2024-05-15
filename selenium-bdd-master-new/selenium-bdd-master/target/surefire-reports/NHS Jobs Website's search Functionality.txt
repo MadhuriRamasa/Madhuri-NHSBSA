@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: NHS Jobs Website's search Functionality
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 138.824 s - in NHS Jobs Website's search Functionality
